@@ -1,0 +1,22 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated at runtime
+logs/
+screenshots/
+reports/
+allure-results/
+test-output/
+.allure/
